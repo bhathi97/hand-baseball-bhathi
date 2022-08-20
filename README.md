@@ -24,3 +24,7 @@ using buttons we can score till 3 out count. (balling)
 winner will show
 
 ![](https://github.com/bhathi97/handbaseball-bhathi/blob/main/Screenshot%20(4).png)
+
+
+## project explanation video
+https://github.com/bhathi97/hand-baseball-bhathi/blob/main/project%20explain.mp4
