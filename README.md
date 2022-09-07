@@ -27,4 +27,4 @@ winner will show
 
 
 ## project explanation video
-https://github.com/bhathi97/hand-baseball-bhathi/blob/main/project%20explain.mp4
+
